@@ -75,7 +75,7 @@ export default function Registration() {
         </p>
       </form>
 
-      <div className="footer">By signing up, you agree to our Terms & Privacy Policy.</div>
+      <div className="footer">By signing up, you agree to our Terms & Privacy Policy..</div>
     </div>
   );
 }
